@@ -14,7 +14,7 @@
 
 ---
 
-## Language
+## Language ~ أختر اللغة
 
 - [English](#english)
 - [العربية](#العربية)
