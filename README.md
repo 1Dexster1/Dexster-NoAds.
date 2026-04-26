@@ -67,20 +67,20 @@ If a direct link fails, open the [Releases page](https://github.com/1Dexster1/De
 
 <div dir="rtl" align="right">
 
-### نظرة سريعة Dexster NoAds
+### نظرة سريعة
 
- هو تطبيق أندرويد لحجب الإعلانات والنطاقات الضارة عبر فلترة DNS محليًا على جهازك.
+Dexster NoAds هو تطبيق أندرويد لحجب الإعلانات والنطاقات الضارة عبر فلترة DNS محليًا على جهازك.
 يساعدك على تصفح أنظف مع خصوصية أفضل.
 
 ### المميزات
 
-- حجب إعلانات ومتتبعات على مستوى النظام (بدون روت)
-- حماية DNS من التصيد والبرمجيات الضارة
-- دعم DNS-over-HTTPS
-- تحكم لكل تطبيق + قواعد حجب/سماح مخصصة
-- سجل DNS مباشر
-- واجهة حديثة Material 3
-- تنبيهات تحديث التطبيق
+• حجب إعلانات ومتتبعات على مستوى النظام (بدون روت)  
+• حماية DNS من التصيد والبرمجيات الضارة  
+• دعم DNS-over-HTTPS  
+• تحكم لكل تطبيق + قواعد حجب/سماح مخصصة  
+• سجل DNS مباشر  
+• واجهة حديثة Material 3  
+• تنبيهات تحديث التطبيق
 
 ### التحميل
 
@@ -89,10 +89,10 @@ If a direct link fails, open the [Releases page](https://github.com/1Dexster1/De
 
 ### نسخ APK
 
-- `arm64-v8a`: [تحميل مباشر](https://github.com/1Dexster1/Dexster-NoAds./releases/latest/download/app-arm64-v8a-debug.apk) - أغلب الأجهزة الحديثة
-- `armeabi-v7a`: [تحميل مباشر](https://github.com/1Dexster1/Dexster-NoAds./releases/latest/download/app-armeabi-v7a-debug.apk) - الأجهزة القديمة 32-bit
-- `x86_64`: [تحميل مباشر](https://github.com/1Dexster1/Dexster-NoAds./releases/latest/download/app-x86_64-debug.apk) - المحاكيات وبعض الأجهزة
-- `universal`: [تحميل مباشر](https://github.com/1Dexster1/Dexster-NoAds./releases/latest/download/app-universal-debug.apk) - يعمل على كل الأجهزة (حجمه أكبر)
+• `arm64-v8a`: [تحميل مباشر](https://github.com/1Dexster1/Dexster-NoAds./releases/latest/download/app-arm64-v8a-debug.apk) - أغلب الأجهزة الحديثة  
+• `armeabi-v7a`: [تحميل مباشر](https://github.com/1Dexster1/Dexster-NoAds./releases/latest/download/app-armeabi-v7a-debug.apk) - الأجهزة القديمة 32-bit  
+• `x86_64`: [تحميل مباشر](https://github.com/1Dexster1/Dexster-NoAds./releases/latest/download/app-x86_64-debug.apk) - المحاكيات وبعض الأجهزة  
+• `universal`: [تحميل مباشر](https://github.com/1Dexster1/Dexster-NoAds./releases/latest/download/app-universal-debug.apk) - يعمل على كل الأجهزة (حجمه أكبر)
 
 لو رابط التحميل المباشر ما اشتغلش، افتح [صفحة الإصدارات](https://github.com/1Dexster1/Dexster-NoAds./releases) وحمّل الملف يدويًا.
 
