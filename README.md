@@ -67,9 +67,9 @@ If a direct link fails, open the [Releases page](https://github.com/1Dexster1/De
 
 <div dir="rtl" align="right">
 
-### نظرة سريعة
+### نظرة سريعة Dexster NoAds
 
-Dexster NoAds هو تطبيق أندرويد لحجب الإعلانات والنطاقات الضارة عبر فلترة DNS محليًا على جهازك.
+ هو تطبيق أندرويد لحجب الإعلانات والنطاقات الضارة عبر فلترة DNS محليًا على جهازك.
 يساعدك على تصفح أنظف مع خصوصية أفضل.
 
 ### المميزات
