@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="140" alt="Dexster NoAds Logo">
+  <img src="icon.png" width="140" alt="Dexster NoAds Logo">
   <h1>Dexster NoAds</h1>
   <p><strong>Fast, private ad blocking for Android.</strong></p>
   <p>Blocks ads, trackers, malware, and phishing domains locally on your device.</p>
